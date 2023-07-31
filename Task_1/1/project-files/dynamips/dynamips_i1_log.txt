@@ -1,0 +1,17 @@
+Jul 31 22:46:12.162 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Jul 31 22:46:12.163 HYPERVISOR: Started on IP = localhost, TCP port = 61000.
+Jul 31 22:46:12.484 HYPERVISOR: exec_cmd: hypervisor version 
+Jul 31 22:46:12.485 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Dima\Documents\Module_4\Task_1\1\project-files\dynamips 
+Jul 31 22:46:12.495 GENERAL: working_dir=C:\Users\Dima\Documents\Module_4\Task_1\1\project-files\dynamips
+Jul 31 22:46:12.495 HYPERVISOR: exec_cmd: ethsw create Switch1 
+Jul 31 22:46:12.553 HYPERVISOR: exec_cmd: nio create_udp udp-4cafd66b-014a-4ea9-ab03-af502bcec462 10001 127.0.0.1 10000 
+Jul 31 22:46:12.554 HYPERVISOR: exec_cmd: ethsw add_nio Switch1 udp-4cafd66b-014a-4ea9-ab03-af502bcec462 
+Jul 31 22:46:12.573 HYPERVISOR: exec_cmd: ethsw set_access_port Switch1 udp-4cafd66b-014a-4ea9-ab03-af502bcec462 1 
+Jul 31 22:46:12.592 HYPERVISOR: exec_cmd: nio create_udp udp-3cbb50f3-ee12-41b7-9c4a-c31f1fd63c32 10003 127.0.0.1 10002 
+Jul 31 22:46:12.593 HYPERVISOR: exec_cmd: ethsw add_nio Switch1 udp-3cbb50f3-ee12-41b7-9c4a-c31f1fd63c32 
+Jul 31 22:46:12.594 HYPERVISOR: exec_cmd: ethsw set_access_port Switch1 udp-3cbb50f3-ee12-41b7-9c4a-c31f1fd63c32 1 
+Jul 31 22:52:54.606 HYPERVISOR: exec_cmd: nio bind_filter udp-4cafd66b-014a-4ea9-ab03-af502bcec462 2 capture 
+Jul 31 22:52:54.606 HYPERVISOR: exec_cmd: nio setup_filter udp-4cafd66b-014a-4ea9-ab03-af502bcec462 2 en10mb C:\Users\Dima\Documents\Module_4\Task_1\1\project-files\captures\PC1_Ethernet0_to_Switch1_Ethernet0.pcap 
+Jul 31 22:54:11.219 HYPERVISOR: exec_cmd: nio unbind_filter udp-4cafd66b-014a-4ea9-ab03-af502bcec462 2 
+Jul 31 22:55:45.551 HYPERVISOR: exec_cmd: nio bind_filter udp-4cafd66b-014a-4ea9-ab03-af502bcec462 2 capture 
+Jul 31 22:55:45.552 HYPERVISOR: exec_cmd: nio setup_filter udp-4cafd66b-014a-4ea9-ab03-af502bcec462 2 en10mb C:\Users\Dima\Documents\Module_4\Task_1\1\project-files\captures\PC1_Ethernet0_to_Switch1_Ethernet0.pcap 
