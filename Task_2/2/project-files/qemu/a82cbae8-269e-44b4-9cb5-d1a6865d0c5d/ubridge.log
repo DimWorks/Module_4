@@ -1,0 +1,34 @@
+uBridge version 0.9.16 running with Npcap version 1.72, based on libpcap version 1.10.2-PRE-GIT
+Hypervisor TCP control server started (IP localhost port 50812).
+UDP tunnel connecting from local port 10053 to IPv4 addresss 127.0.0.1 on port 10052
+UDP tunnel connecting from local port 10001 to IPv4 addresss 127.0.0.1 on port 10000
+Source NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-0 has started
+Destination NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-0 has started
+UDP tunnel connecting from local port 10055 to IPv4 addresss 127.0.0.1 on port 10054
+UDP tunnel connecting from local port 10003 to IPv4 addresss 127.0.0.1 on port 10002
+Source NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-1 has started
+Destination NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-1 has started
+UDP tunnel connecting from local port 10057 to IPv4 addresss 127.0.0.1 on port 10056
+UDP tunnel connecting from local port 10017 to IPv4 addresss 127.0.0.1 on port 10016
+Source NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-2 has started
+Destination NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-2 has started
+UDP tunnel connecting from local port 10059 to IPv4 addresss 127.0.0.1 on port 10058
+UDP tunnel connecting from local port 10019 to IPv4 addresss 127.0.0.1 on port 10018
+Source NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-3 has started
+Destination NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-3 has started
+UDP tunnel connecting from local port 10061 to IPv4 addresss 127.0.0.1 on port 10060
+UDP tunnel connecting from local port 10020 to IPv4 addresss 127.0.0.1 on port 10021
+Source NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-4 has started
+Destination NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-4 has started
+UDP tunnel connecting from local port 10063 to IPv4 addresss 127.0.0.1 on port 10062
+UDP tunnel connecting from local port 10022 to IPv4 addresss 127.0.0.1 on port 10023
+Source NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-5 has started
+Destination NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-5 has started
+UDP tunnel connecting from local port 10065 to IPv4 addresss 127.0.0.1 on port 10064
+UDP tunnel connecting from local port 10024 to IPv4 addresss 127.0.0.1 on port 10025
+Source NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-6 has started
+Destination NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-6 has started
+UDP tunnel connecting from local port 10067 to IPv4 addresss 127.0.0.1 on port 10066
+UDP tunnel connecting from local port 10026 to IPv4 addresss 127.0.0.1 on port 10027
+Source NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-7 has started
+Destination NIO listener thread for QEMU-a82cbae8-269e-44b4-9cb5-d1a6865d0c5d-7 has started
